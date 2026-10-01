@@ -199,7 +199,6 @@ Projeto experimental utilizado para aplicar conceitos de arquitetura de software
 
 Esta seção está em evolução contínua.
 
-Novos conceitos, padrões, referências, diagramas e decisões arquiteturais serão adicionados conforme os estudos e projetos avançarem.
 
 ---
 
