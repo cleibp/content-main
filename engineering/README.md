@@ -137,37 +137,6 @@ Princípios fundamentais de segurança no desenvolvimento de software.
 
 ---
 
-## 🎯 Objetivos
-
-Este conteúdo tem como objetivos:
-
-* fortalecer fundamentos de Engenharia de Software;
-* documentar conceitos e boas práticas;
-* conectar teoria e implementação;
-* servir como referência para projetos;
-* apoiar decisões técnicas e arquiteturais.
-
----
-
-## 🔗 Relação com outras áreas
-
-**Engineering** concentra-se em **como construir e manter software com qualidade**.
-
-Enquanto:
-
-* `Architecture` → como estruturar sistemas;
-* `Engineering` → como construir software de qualidade;
-* `Backend` → como implementar serviços e APIs;
-* `Distributed Systems` → como lidar com sistemas distribuídos;
-* `Cloud & DevOps` → como executar, automatizar e operar sistemas.
-
----
-
-## 📌 Status
-
-Conteúdo em evolução contínua.
-
----
 ## Contatos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleibp)](https://github.com/cleibp)
