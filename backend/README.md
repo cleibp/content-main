@@ -16,7 +16,9 @@ Conteúdos, estudos e implementações relacionados ao desenvolvimento backend.
 
 | Nome                                                                              | Descrição                                            |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST Node de Notícias                           |
+| [apiNode](https://github.com/cleibp/apiNode)                                      | Public API REST                                            |
+| [api](https://github.com/cleibp/rural-producer-api)                               | Public API REST                                            |
+
 
 
 ---
