@@ -176,8 +176,6 @@ Projeto experimental de arquitetura distribuída utilizando múltiplos serviços
 
 Este repositório está em evolução contínua.
 
-Novos conteúdos, experimentos, estudos e referências serão adicionados conforme os projetos avançarem.
-
 ---
 
 ## Contatos
