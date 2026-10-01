@@ -1,4 +1,3 @@
-
 # 🏗️ Architecture
 
 Central de estudos, referências e práticas relacionadas à **Arquitetura de Software**.
@@ -22,8 +21,6 @@ Conceitos e práticas para projetar sistemas considerando requisitos funcionais 
 * Resilience
 * Trade-offs
 
-→ [Acessar System Design](./system-design/README.md)
-
 ---
 
 ### 🧱 Clean Architecture
@@ -39,7 +36,6 @@ Princípios para estruturar sistemas com baixo acoplamento e separação clara d
 * Boundaries
 * Separation of Concerns
 
-→ [Acessar Clean Architecture](./clean-architecture/README.md)
 
 ---
 
@@ -58,7 +54,6 @@ Abordagem para modelagem de software orientada ao domínio do negócio.
 * Ubiquitous Language
 * Domain Events
 
-→ [Acessar DDD](./ddd/README.md)
 
 ---
 
@@ -76,8 +71,6 @@ Conceitos e práticas relacionados à construção e evolução de sistemas base
 * Deployment
 * Observability
 
-→ [Acessar Microservices](./microservices/README.md)
-
 ---
 
 ### ⚡ Event-Driven Architecture
@@ -94,8 +87,6 @@ Arquiteturas baseadas em eventos para comunicação assíncrona e desacoplamento
 * CQRS
 * Message-Driven Architecture
 
-→ [Acessar Event-Driven Architecture](./event-driven/README.md)
-
 ---
 
 ### 🎨 Design Patterns
@@ -105,8 +96,6 @@ Soluções reutilizáveis para problemas recorrentes de design de software.
 * Creational Patterns
 * Structural Patterns
 * Behavioral Patterns
-
-→ [Acessar Design Patterns](./design-patterns/README.md)
 
 ---
 
@@ -122,8 +111,6 @@ Modelos recorrentes utilizados para estruturar sistemas e suas responsabilidades
 * Microservices
 * Serverless Architecture
 * Event-Driven Architecture
-
-→ [Acessar Architectural Patterns](./architectural-patterns/README.md)
 
 ---
 
@@ -143,8 +130,6 @@ Padrões utilizados para integração e comunicação entre sistemas e component
 * Outbox Pattern
 * Saga Pattern
 
-→ [Acessar Integration Patterns](./integration-patterns/README.md)
-
 ---
 
 ### 📋 Architecture Decision Records
@@ -157,48 +142,6 @@ Documentação das decisões arquiteturais relevantes tomadas durante o desenvol
 * Alternatives
 * Consequences
 * Trade-offs
-
-→ [Acessar ADR](./adr/README.md)
-
----
-
-## 🎯 Objetivos
-
-Esta seção tem como objetivos:
-
-* compreender diferentes estilos arquiteturais;
-* estudar padrões de arquitetura e design;
-* analisar trade-offs técnicos;
-* documentar decisões arquiteturais;
-* conectar teoria e implementação;
-* aplicar conceitos em projetos reais;
-* evoluir gradualmente a complexidade dos sistemas.
-
----
-
-## 🔗 Projetos relacionados
-
-### Enterprise Platform
-
-Projeto experimental utilizado para aplicar conceitos de arquitetura de software, incluindo:
-
-* Clean Architecture;
-* Domain-Driven Design;
-* Microservices;
-* Event-Driven Architecture;
-* Integration Patterns;
-* Distributed Systems;
-* Observability;
-* Cloud Architecture.
-
-> Em desenvolvimento.
-
----
-
-## 📌 Status
-
-Esta seção está em evolução contínua.
-
 
 ---
 
