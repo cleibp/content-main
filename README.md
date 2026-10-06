@@ -108,28 +108,13 @@ Práticas e princípios utilizados para construir software sustentável.
 
 ---
 
-### 📚 Studies
+### 🧪 Labs
 
-Fundamentos, linguagens de programação e exercícios.
+Fundamentos, linguagens de programação e experimentos, Proofs of Concept (PoCs) e estudos práticos.
 
 * Programming Fundamentals
 * Object-Oriented Programming
-* JavaScript
-* TypeScript
-* C#
-* Java
-* Python
-* Go
-* Rust
-* Exercises
 
-→ [Acessar Studies](./studies/README.md)
-
----
-
-### 🧪 Labs
-
-Experimentos, Proofs of Concept (PoCs) e estudos práticos.
 
 → [Acessar Labs](./labs/README.md)
 
