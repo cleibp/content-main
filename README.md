@@ -168,16 +168,6 @@ Este repositório tem como objetivos:
 
 ---
 
-# 🔗 Projetos relacionados
-
-### Enterprise Platform
-
-Projeto experimental de arquitetura distribuída utilizando múltiplos serviços e tecnologias.
-
-> Em desenvolvimento.
-
----
-
 # 📌 Status
 
 Este repositório está em evolução contínua.
