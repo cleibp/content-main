@@ -53,6 +53,30 @@ Estudos, implementações e referências relacionadas ao desenvolvimento backend
 → [Acessar Backend](./backend/README.md)
 
 ---
+🎨 Frontend
+
+Estudos, implementações e referências relacionadas ao desenvolvimento frontend e aplicações web modernas.
+
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Angular
+Vue.js
+Next.js
+State Management
+Component Architecture
+Design Systems
+Responsive Design
+Accessibility
+Web Performance
+Frontend Testing
+Micro Frontends
+
+→ [Acessar Frontend](./frontend/README.md)
+
+---
 
 ### 🌐 Distributed Systems
 
