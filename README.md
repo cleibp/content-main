@@ -112,9 +112,6 @@ Práticas e princípios utilizados para construir software sustentável.
 
 Fundamentos, linguagens de programação e experimentos, Proofs of Concept (PoCs) e estudos práticos.
 
-* Programming Fundamentals
-* Object-Oriented Programming
-
 
 → [Acessar Labs](./labs/README.md)
 
