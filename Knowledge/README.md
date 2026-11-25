@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Knowledge </h1>
 
-
+Guias rápidos, cheat sheets, referências e conceitos.
 
 ## Contatos
 
