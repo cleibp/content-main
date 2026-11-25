@@ -150,7 +150,7 @@ Guias rápidos, cheat sheets, referências e conceitos.
 * References
 * Glossary
 
-→ [Acessar Knowledge](.knowledge/README.md)
+→ [Acessar Knowledge](./knowledge/README.md)
 
 ---
 
